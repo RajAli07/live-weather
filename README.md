@@ -1,7 +1,7 @@
 # Weather Forecast Website
 
 ## Homepage Preview  
-![Homepage](https://assets.onecompiler.app/436645ybn/438jqck34/Screen%20Shot%202025-02-09%20at%205.32.15%20PM.png)
+![Homepage](https://assets.onecompiler.app/436645ybn/438jqck34/home%20page%20preview.png)
 
 ## Weather Forecast Preview  
 ![Weather Forecast](https://assets.onecompiler.app/436645ybn/438jqck34/Screen%20Shot%202025-02-09%20at%205.33.29%20PM.png)
